@@ -9,8 +9,7 @@ Requirements, class specs and acceptance criteria live in the "PhysLab: Requirem
 ```
 python -m venv .venv
 .venv\Scripts\activate
-pip install -e .
-pip install pytest
+pip install -e ".[dev]"
 ```
 
 ## Run

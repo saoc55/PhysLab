@@ -8,6 +8,10 @@ version = "0.1.0"
 description = "Classical physics simulator and learning tool"
 requires-python = ">=3.11"
 
+[project.optional-dependencies]
+dev = ["pytest"]
+
+
 [tool.setuptools.packages.find]
 where = ["src"]
 
