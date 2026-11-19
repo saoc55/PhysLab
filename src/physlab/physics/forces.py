@@ -1,4 +1,3 @@
-# REVIEW 2 (Claude, 2026-10-12). Nearly done: one physics bug (drag sign), one leftover in force_on, two small spec points.
 from __future__ import annotations
 from physlab.core.vector2d import Vector2D
 from physlab.core.constants import STANDARD_GRAVITY, AIR_DENSITY, SPHERE_DRAG_COEFFICIENT
