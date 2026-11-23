@@ -1,5 +1,7 @@
 # PhysLab
 
+[![CI](https://github.com/saoc55/PhysLab/actions/workflows/ci.yml/badge.svg)](https://github.com/saoc55/PhysLab/actions/workflows/ci.yml)
+
 Classical physics simulator and learning tool. Python standard library + tkinter, no physics libraries.
 
 Requirements, class specs and acceptance criteria live in the "PhysLab: Requirements & Build Guide" doc.
